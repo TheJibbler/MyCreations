@@ -15,3 +15,7 @@ These are my creations that I create and own!
 
 ###fps
 [Click here](https://thejibbler.github.io/MyCreations/fps/)
+
+###fake virus
+[Click here](https://thejibbler.github.io/MyCreations/fakevirus/)
+you can close the tab at any time
